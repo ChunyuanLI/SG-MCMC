@@ -20,38 +20,14 @@ Algorithms in the same row share similar characteristics.
 ### Links to other implementation:
 
 
-| Algorithms    | SG-MCMC       | Optimization |
-| ------------- |:-------------:| ------------:|
-| **Theano**         |  https://github.com/akshaykgupta/SG_MCMC          |  SGD         |
-| Precondition  | pSGLD         |  Adam/RMSprop/Adagrad |
-| **Julia**:      | https://github.com/BigBayes/SGMCMC.jl    https://github.com/alstat/StochMCMC.jl      |  SGD with momentum    |
+| Implementation    | Links       | Note |
+| -------------      |:-------------:| ------------:|
+| **Theano**         |  https://github.com/akshaykgupta/SG_MCMC          |           |
+| **Tensorflow in Edward**:  | https://github.com/blei-lab/edward/tree/master/edward/inferences         |  |
+| **Julia**:         | https://github.com/BigBayes/SGMCMC.jl    https://github.com/alstat/StochMCMC.jl      |       |
+| **R**:    | https://github.com/STOR-i/sgmcmc    https://cran.r-project.org/web/packages/sgmcmc/index.html     |         |
+| **Matlab**:  | https://github.com/satwikkottur/StochasticMCMC     |         |
 
-| Thermostat    | SGNHT         |  Santa                |
-
-**Theano**:
-
-   https://github.com/akshaykgupta/SG_MCMC
-
-**Tensorflow in Edward**:
-
-https://github.com/blei-lab/edward/tree/master/edward/inferences
-
-**Julia**: 
-
-   https://github.com/BigBayes/SGMCMC.jl
-    
-   https://github.com/alstat/StochMCMC.jl
-
-**R**: 
-
-   https://github.com/STOR-i/sgmcmc
-    
-   https://cran.r-project.org/web/packages/sgmcmc/index.html
-
-
-**Matlab**:
-
-   https://github.com/satwikkottur/StochasticMCMC
 
 
 

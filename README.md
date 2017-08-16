@@ -14,7 +14,9 @@ Algorithms in the same row share similar characteristics.
 | Thermostat    | SGNHT         |  Santa                |
 
 
---
+----
+
+
 ### Links to other implementation:
 
 **Theano**:

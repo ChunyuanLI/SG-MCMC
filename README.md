@@ -21,6 +21,9 @@ Algorithms in the same row share similar characteristics.
 
    https://github.com/akshaykgupta/SG_MCMC
 
+**Tensorflow in Edward**:
+
+https://github.com/blei-lab/edward/tree/master/edward/inferences
 
 **Julia**: 
 

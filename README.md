@@ -14,8 +14,8 @@ Algorithms in the same row share similar characteristics.
 | Thermostat    | SGNHT         |  Santa                |
 
 
-
-### Links:
+----
+### Links to other implementation:
 
 **Theano**:
 
@@ -29,6 +29,7 @@ https://github.com/BigBayes/SGMCMC.jl
 https://github.com/alstat/StochMCMC.jl
 
 **R**: 
+
 https://github.com/STOR-i/sgmcmc
 
 https://cran.r-project.org/web/packages/sgmcmc/index.html

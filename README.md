@@ -19,6 +19,15 @@ Algorithms in the same row share similar characteristics.
 
 ### Links to other implementation:
 
+
+| Algorithms    | SG-MCMC       | Optimization |
+| ------------- |:-------------:| ------------:|
+| **Theano**         |  https://github.com/akshaykgupta/SG_MCMC          |  SGD         |
+| Precondition  | pSGLD         |  Adam/RMSprop/Adagrad |
+| **Julia**:      | ⋅⋅⋅https://github.com/BigBayes/SGMCMC.jl    ⋅⋅⋅https://github.com/alstat/StochMCMC.jl      |  SGD with momentum    |
+
+| Thermostat    | SGNHT         |  Santa                |
+
 **Theano**:
 
    https://github.com/akshaykgupta/SG_MCMC

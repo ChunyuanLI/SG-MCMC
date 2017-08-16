@@ -13,3 +13,29 @@ Algorithms in the same row share similar characteristics.
 | Momentum      | SGHMC         |  SGD with momentum    |
 | Thermostat    | SGNHT         |  Santa                |
 
+
+
+### Links:
+
+**Theano**:
+
+https://github.com/akshaykgupta/SG_MCMC
+
+
+**Julia**: 
+
+https://github.com/BigBayes/SGMCMC.jl
+
+https://github.com/alstat/StochMCMC.jl
+
+**R**: 
+https://github.com/STOR-i/sgmcmc
+
+https://cran.r-project.org/web/packages/sgmcmc/index.html
+
+
+**Matlab**:
+https://github.com/satwikkottur/StochasticMCMC
+
+
+

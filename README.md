@@ -19,25 +19,25 @@ Algorithms in the same row share similar characteristics.
 
 **Theano**:
 
-    https://github.com/akshaykgupta/SG_MCMC
+   https://github.com/akshaykgupta/SG_MCMC
 
 
 **Julia**: 
 
-    https://github.com/BigBayes/SGMCMC.jl
+   https://github.com/BigBayes/SGMCMC.jl
     
-    https://github.com/alstat/StochMCMC.jl
+   https://github.com/alstat/StochMCMC.jl
 
 **R**: 
 
-    https://github.com/STOR-i/sgmcmc
+   https://github.com/STOR-i/sgmcmc
     
-    https://cran.r-project.org/web/packages/sgmcmc/index.html
+   https://cran.r-project.org/web/packages/sgmcmc/index.html
 
 
 **Matlab**:
 
-    https://github.com/satwikkottur/StochasticMCMC
+   https://github.com/satwikkottur/StochasticMCMC
 
 
 
